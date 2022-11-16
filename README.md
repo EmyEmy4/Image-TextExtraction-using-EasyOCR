@@ -1,0 +1,1 @@
+# Image-TextExtraction-using-EasyOCR
